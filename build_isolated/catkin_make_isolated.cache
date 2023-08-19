@@ -1,0 +1,2 @@
+my_robot_controller
+-DCMAKE_BUILD_TYPE=Release -DPYTHON_EXECUTABLE=/usr/bin/python3 -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/yhb/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/opt/ros/melodic
